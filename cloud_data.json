@@ -1,0 +1,68 @@
+{
+  "user":[
+    {
+    "name": "娱玖爷","pwd":"123456","level":"6","sex":"男",
+    "state":"2390",
+    "attention":"15",
+    "fans":"809312",
+    "person_infor":"娱玖爷，明星八卦！娱乐圈精选优秀资源！好音乐分享！【微博同名】中华小曲库就是我！(￣▽￣)~*",
+    "social-net":{
+      "QQ":"0",
+      "t-WeiBo":"0",
+      "WeiBo":"1",
+      "WeiXin":"0"  
+    }
+    },
+    {
+    "name": "撒贝宁","pwd":"qwert","level":"6","sex":"男",
+    "state":"8985",
+    "attention":"89",
+    "fans":"35",
+    "person_infor":"我就是我，是颜色不一样的烟火",
+    "social-net":{
+      "QQ":"0",
+      "t-WeiBo":"0",
+      "WeiBo":"1",
+      "WeiXin":"0"  
+    }
+    },
+    {
+    "name": "周武","pwd":"jinyi","level":"6","sex":"男",
+    "state":"2009",
+    "attention":"9",
+    "fans":"25535",
+    "person_infor":"天上地下，为我独尊",
+    "social-net":{
+      "QQ":"1",
+      "t-WeiBo":"1",
+      "WeiBo":"1",
+      "WeiXin":"0"  
+    }
+    },
+    {
+    "name": "叶静","pwd":"huang190","level":"6","sex":"男",
+    "state":"2009",
+    "attention":"9",
+    "fans":"3213",
+    "person_infor":"你的血就是我的眼",
+    "social-net":{
+      "QQ":"1",
+      "t-WeiBo":"1",
+      "WeiBo":"1",
+      "WeiXin":"0"  
+    }
+    },
+    {
+    "name": "东野圭武","pwd":"190405","level":"6","sex":"男",
+    "state":"3214",
+    "attention":"9",
+    "fans":"456677",
+    "person_infor":"扶我起来，我还能打",
+    "social-net":{
+      "QQ":"0",
+      "t-WeiBo":"1",
+      "WeiBo":"0",
+      "WeiXin":"0"  
+    }
+    }]
+}

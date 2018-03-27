@@ -1,0 +1,128 @@
+html,body,h1,h2,h3,h4,h5,h6,div,dl,dt,dd,ul,ol,li,p{
+    margin: 0;
+    padding: 0;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+
+}
+body{
+    background: #e0e0e0;
+    font-family: 'Helvetica Neue', Helvetica, 'Lucida Grande', Arial, 'Hiragino Sans GB', 微软雅黑, 'WenQuanYi Micro Hei', STHeiti, SimSun, sans-serif;
+    min-width: 1080px;
+}
+ul,li {
+    list-style: none;
+}
+.container{
+    min-width: 400px;
+    width: 930px;
+    height: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+.container .sibar{
+    height: 100%;
+    width: 300px;
+    border:1px solid blue;
+    box-sizing: content-box;
+    padding:0px 10px 0px 10px ;
+    background-color: #415877;
+    float: left;
+}
+.title{
+    text-align: center;
+}
+.title img{
+    margin-top: 25px;
+    width: 120px;
+    height: 120px;
+}
+.title h1{
+    font-size: 34px;
+    color: #ffffff;
+    font-weight: normal;
+}
+.title p{
+    color: white;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.side-info li {
+    padding-top: 20px;
+    font-size: 14px;
+}
+.side-info h2{
+    font-size: 18px;
+    color: #b6c0ce;
+    line-height: 40px;
+}
+.side-info .cont{
+    color: #ffffff;
+    text-align: center;
+}
+.side-info .cond{
+    padding: 10px;
+}
+.skill-name {
+    display: inline-block;
+    font-size: 14px;
+    width: 70px;
+    text-align: right;
+    color: #ffffff;
+}
+.skill-bar-wrap {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    height: 14px;
+    width: 150px;
+    background-color: #042029;
+    border-radius: 20px;
+}
+.skill-bar{
+    height: 14px;
+    background: #ffffff;
+    border-radius:20px 0 0 20px;
+}
+.note{
+    color: white;
+    padding-top:40px;
+}
+.note p{
+    padding: 10px;
+}
+.main{
+    width: 600px;
+    height: 1000px;
+    border:1px solid rebeccapurple;
+    float:left;
+    background: #f0f2f1;
+}
+.main-info a {
+    color: #415877;
+}
+.main-info h2,.main-exp h2{
+    font-size: 24px;
+    color: #415877;
+    padding-top: 20px;
+    border-bottom: 1px solid #415877;
+    margin-left: 10px;
+}
+.main-info p{
+    padding: 5px;
+    margin-left: 10px;
+}
+.main-exp .item h3{
+    line-height: 30px;
+    font-size: 18px;
+    color: #000;
+    padding: 15px 15px 15px 0px;
+    margin-left: 10px;
+}
+.main-exp .item p{
+    margin-left: 25px;
+}
+.clean{
+    clear: both;
+}
